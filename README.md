@@ -39,9 +39,9 @@ Below is a list of available software repositories organized by the primary purp
 
 #### ICANDI
 
-* Source code currently unavailable. Contact Austin Roorda for more information.
+* [Source code](https://github.com/RoordaLab/ICANDI)
 
-> Image capture and delivery interface.
+> Image capture and delivery interface. Use appropriate version depending on the FPGA board being used.
 
 #### IGUIDE
 
