@@ -72,7 +72,7 @@ Below is a list of available software repositories organized by the primary purp
 
 #### ReVAS
 
-* Source code coming soon.
+* [Source code](https://github.com/lowvisionresearch/ReVAS).
 
 > An open-source tool for eye motion extraction from retinal videos obtained with a SLO. ReVAS uses a strip-based image registration program designed for SLO videos by [Scott B. Stevenson, Austin Roorda and Garish Kumar (2010) Proceedings of the 2010 Symposium on Eye-Tracking Research & Applications, Austin, TX.](http://roorda.vision.berkeley.edu/Pubs/StevensoETRA2010.pdf).
 
